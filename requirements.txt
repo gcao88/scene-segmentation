@@ -1,0 +1,17 @@
+torch
+torchvision
+datasets>=2.19,<4.0
+fsspec<=2024.12.0
+huggingface-hub>=0.34,<1
+transformers>=4.40
+evaluate
+scikit-image
+scipy
+pandas
+albumentations
+tqdm
+matplotlib
+numpy
+Pillow
+ipykernel
+ipympl
